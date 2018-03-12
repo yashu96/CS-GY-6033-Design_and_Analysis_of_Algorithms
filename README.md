@@ -1,1 +1,3 @@
 # CS-GY-6033-Design_and_Analysis_of_Algorithms
+
+This course reviewed basic data structures and mathematical tools. Topics: Data structures, priority queues, binary search trees, balanced search trees. Btrees. Algorithm design and analysis techniques illustrated in searching and sorting: heapsort, quicksort, sorting in linear time, medians and order statistics. Design and analysis techniques: dynamic programming, greedy algorithms. Graph algorithms: elementary graph algorithms (breadth first search, depth first search, topological sort, connected components, strongly connected components), minimum spanning tree, shortest path. String algorithms. Geometric algorithms. Linear programming. Brief introduction to NP completeness.
